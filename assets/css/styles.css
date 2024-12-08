@@ -1,0 +1,47 @@
+body {
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+h2 {
+    color: rgb(0, 0, 0);
+    text-align:  center;
+    background-color:lightseagreen;
+}
+
+h2, p, label, a, button {
+    
+font-family: "Raleway", sans-serif;
+
+}
+
+a {
+    font-style: italic;
+
+}
+
+img{
+    width: 55%;
+    margin:auto ;
+
+}
+
+div{
+    width:auto;
+    height: auto;
+}
+
+label{
+    margin: 20px;
+    
+}
+
+p{
+    margin: 20px;
+}
+
+button{
+    margin: 15px
+}
+@media(min-width: 319px){ 
+    Regras que serão aplicadas
+}
